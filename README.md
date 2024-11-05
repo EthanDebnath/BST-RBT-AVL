@@ -1,4 +1,4 @@
-`# Tree Data Structures: Binary Search Tree, Red-Black Tree, and AVL Tree
+# Tree Data Structures: Binary Search Tree, Red-Black Tree, and AVL Tree
 
 Implementationz of these 3 tree data structures:
 
