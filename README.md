@@ -12,8 +12,8 @@ Tests are included to demonstrate and validate the functionality of each impleme
 
 ## Project Structure
 
-- `bst.py` - Implementation of a Binary Search Tree.
-- `rbt.py` - Implementation of a Red-Black Tree.
+- `bst_basic.py` - Implementation of a Binary Search Tree.
+- `red_black_tree.py` - Implementation of a Red-Black Tree.
 - `avl.py` - Implementation of an AVL Tree.
 - `tests/` - Contains test scripts for each tree type.
 
